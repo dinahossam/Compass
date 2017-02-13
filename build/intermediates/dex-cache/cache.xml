@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dina/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/dina/Desktop/CompassApp1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_67c3a779eee5d210ed58fed01a8d81433cc95fef.jar" />
+    </item>
+    <item
+        jar="/home/dina/Desktop/CompassApp1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="12deaf118cc078b0437054af203720c3f7a666ce">
+        <dex dex="/home/dina/Desktop/CompassApp1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_7d6042953f21f1ba5cfdac95a48628017dbb2c3b.jar" />
+    </item>
+    <item
+        jar="/home/dina/Desktop/CompassApp1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="5482eb41d78fe471bb525a5b3b68bdb11167de04">
+        <dex dex="/home/dina/Desktop/CompassApp1/app/build/intermediates/pre-dexed/debug/instant-run_059618be234e9e067d1b849026ae3e898b0fd47e.jar" />
+    </item>
+
+</items>
